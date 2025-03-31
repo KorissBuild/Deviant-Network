@@ -1,0 +1,8 @@
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/unity projects/Deviant Network/.utmp/Debug/y3x2q5y5/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

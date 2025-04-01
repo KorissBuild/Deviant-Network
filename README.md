@@ -19,6 +19,6 @@
 
 ### Добавление сетевой технологии
 * Перейдите на https://dashboard.photonengine.com, нажмите Create a new app и создайте аппликацию типа PUN 2.
-* Скопируйте PUN ID, в Unity нажмитье Windows > Photon Unity Networking > PUN Wizard > Locate PhotonServerSettings, и в App Id PUN введите ваш ID.
+* Скопируйте PUN ID, в Unity нажмите Windows > Photon Unity Networking > PUN Wizard > Locate PhotonServerSettings, и в App Id PUN введите ваш ID.
 
 ## Все готово! Теперь у вас есть рабочая версия мессенджера, с которой вы можете делать что угодно.

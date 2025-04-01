@@ -7,3 +7,8 @@
 
 ### Инструменты для работы
 #### Приложение создано на Unity 6, сетевая часть это Photon Engine, в качестве базы данных выступает Firebase.
+
+### Добавление своей базы данных
+* После открытия архива, перейдите на https://firebase.google.com и создайте базу данных для Unity. Придумайте и введите ID вашего проекта. 
+* В меню Project Overview выберите Unity, после этого в "Register as Android app" введите Project ID вашего приложения из Unity Player Settings.
+* Скачайте файл google-services.json и перекиньте его в папку Assets вашего проекта.
